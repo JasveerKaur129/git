@@ -9,6 +9,6 @@ public class example {
         System.out.println("git ");
 
         System.out.println("git ");
-        System.out.println("git 2");
+
     }
 }
